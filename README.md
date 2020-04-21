@@ -28,3 +28,8 @@ doc = nlp('This is nlp with spaCy')
 ```
 When you call NLP on text , spaCy first tokenizes the text to produce a Doc object. Doc is then is processed in several different steps, which we also refer to as pipeline.
 
+![Default pipeline](https://miro.medium.com/max/613/1*gP6Hm4OIjWwMz2rVHTaWJQ.png)
+
+Tokenizing is task of splitting sentence into meaningful segments called tokens. These segments could be words, punctuations, numbers or other special characters that are building blocks of sentence.
+
+SpaCy’s default pipeline also preforms rule based matching. This annotates the text with more information and adds value during preprocessing.
