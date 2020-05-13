@@ -34,7 +34,7 @@ Tokenizing is task of splitting sentence into meaningful segments called tokens.
 
 SpaCy’s default pipeline also preforms rule based matching. This annotates the text with more information and adds value during preprocessing.
 
-For the datailed explanation please do go through th blog I have published on Medium
+For the datailed explanation please do go through the blogs I have published on Medium
 
 1. Natural Language Processing using spaCy in Python(part-1)
 https://medium.com/analytics-vidhya/natural-language-processing-using-spacy-in-python-part-1-ac1bc4ad2b9c
