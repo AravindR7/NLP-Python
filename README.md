@@ -33,3 +33,11 @@ When you call NLP on text , spaCy first tokenizes the text to produce a Doc obje
 Tokenizing is task of splitting sentence into meaningful segments called tokens. These segments could be words, punctuations, numbers or other special characters that are building blocks of sentence.
 
 SpaCy’s default pipeline also preforms rule based matching. This annotates the text with more information and adds value during preprocessing.
+
+For the datailed explanation please do go through th blog I have published on Medium
+
+1. Natural Language Processing using spaCy in Python(part-1)
+https://medium.com/analytics-vidhya/natural-language-processing-using-spacy-in-python-part-1-ac1bc4ad2b9c
+
+2. Topic Modeling using Gensim-LDA-Python
+https://medium.com/@AravindR07/nlp-using-spacy-and-topic-modeling-using-gensim-python-42c4574830d
