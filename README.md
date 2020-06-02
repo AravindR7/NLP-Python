@@ -46,8 +46,9 @@ https://medium.com/@AravindR07/nlp-using-spacy-and-topic-modeling-using-gensim-p
 # Text Summarization
 Is a process of distilling most important information from source of text while preserving the meaning of the content.
 
-Main idea 
-Text processing
+Main idea:
+
+Text processing(preprocessing).
 Word frequency distribution - how many times each words appear in document.
 Score each sentence depending on the words it contain and the frequency table.
 Build summary by joining every sentence above a certain score limit.
