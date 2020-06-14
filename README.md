@@ -52,3 +52,6 @@ Text processing(preprocessing).
 Word frequency distribution - how many times each words appear in document.
 Score each sentence depending on the words it contain and the frequency table.
 Build summary by joining every sentence above a certain score limit.
+
+#Similarity queries and text summarization blog:
+https://medium.com/@AravindR07/similarity-queries-and-text-summarization-in-nlp-50ef4cf04f7b
